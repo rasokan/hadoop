@@ -1,0 +1,10 @@
+	COMPANY Id	SIC ID	RATING	SCORE1	SCORE2	SCORE3	Rating Risk	SCORE1 RISK	SCORE2 RISK	SCORE3 RISK	RISK CATEGORY
+	app4dfdfh7k	5072	5G2	8	40	50	LOW	HIGH	MEDIUM	HIGH	HIGH
+	bpp4gjdfh7e	5072	5G2	8	64	50	LOW	HIGH	MEDIUM	HIGH	HIGH
+	cpp4gjdfk7e	5072	5G2	8	78	50	LOW	HIGH	LOW	HIGH	HIGH
+	dpp4gjdfh7e	5072	5G2	8	64	50	LOW	HIGH	MEDIUM	HIGH	HIGH
+	fpp4gjdfh7e	5072	5G2	8	64	50	LOW	HIGH	MEDIUM	HIGH	HIGH
+	HighCount:5	High Count Percentage:100.0
+MediumCount:0	Medium Count Percentage:0.0
+LowCount:0	Low Count Percentage:0.0
+	The Riskiest Sector id :5072	with  number of Companies include:	5

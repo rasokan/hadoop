@@ -1,0 +1,5 @@
+app4dfdfh7k	5072	5G2	8	40	50
+bpp4gjdfh7e	5072	5G2	8	64	50
+cpp4gjdfk7e	5072	5G2	8	78	50
+dpp4gjdfh7e	5072	5G2	8	64	50
+fpp4gjdfh7e	5072	5G2	8	64	50
